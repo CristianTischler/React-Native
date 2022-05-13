@@ -8,7 +8,6 @@ interface Direccion{
     casaNo: number;
 } 
 
-
 export default function ObjetosLiterales() {
 
     const persona:Persona = {
