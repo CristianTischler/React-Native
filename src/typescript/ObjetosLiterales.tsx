@@ -6,7 +6,7 @@ interface Persona{
 interface Direccion{
     pais:string;
     casaNo: number;
-}
+} 
 
 
 export default function ObjetosLiterales() {
